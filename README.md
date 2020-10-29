@@ -2,7 +2,7 @@
 
 <img src="https://github.com/nurzainpradana/nurzainpradana/blob/master/bg_header.jpg?raw=true" alt="banner that says Nur Zain Pradana - Junior Android Developer"><br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=khoyron&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="khoyron GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nurzainpradana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="Nur Zain Pradana GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurzainpradana&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
 
 Hi, I'm Junior Android Developer from indonesian. And i'm java and kotlin enthusiast, I'm just beginner but i hope i can contribute to open source on github . if you have an idea to create a library maybe i can help, feel free to comment and pull requests <br />
