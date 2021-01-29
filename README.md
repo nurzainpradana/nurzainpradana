@@ -10,8 +10,3 @@ Hi, I'm Junior Android Developer from indonesian. And i'm java and kotlin enthus
 
 ## Find me around the web 🌎 <a href="https://github.com/nurzainpradana"><img align="left" width="130" height="130" src="https://raw.githubusercontent.com/nurzainpradana/nurzainpradana/master/gif/git.gif?raw=true"></a>
 - My Contact on <a href="https://www.linkedin.com/in/nur-zain-pradana-7463a4183/">LinkedIn</a> 💼
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/nurzainpradana/nurzainpradana/main/charts/bar_graph.png) 
