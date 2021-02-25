@@ -5,7 +5,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nurzainpradana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="Nur Zain Pradana GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurzainpradana&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
 
-[![nurzainpradana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nurzainpradana)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nurzainpradana" />
 
 Hi, I'm Junior Android Developer from indonesian. And i'm java and kotlin enthusiast, I'm just beginner but i hope i can contribute to open source on github . if you have an idea to create a library maybe i can help, feel free to comment and pull requests <br />
 
