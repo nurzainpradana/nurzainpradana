@@ -1,6 +1,6 @@
 # Assalamualaikum Warahmatullahi Wabarakatuh, Hi 👋, I'm Zain 🏾
 
-<img src="https://github.com/nurzainpradana/nurzainpradana/blob/master/bg_header.jpg?raw=true" alt="banner that says Nur Zain Pradana - Junior Android Developer"><br />
+<img src="https://github.com/nurzainpradana/nurzainpradana/bg_header.png?raw=true" alt="banner that says Nur Zain Pradana - Junior Android & Web Programmer"><br />
 
 Hi, I'm Junior Android & Web Programmer from Indonesia. And i'm Java / Kotlin / PHP enthusiast, I'm just beginner but i hope i can contribute to open source on github . if you have an idea to create a library maybe i can help, feel free to comment and pull requests <br />
 
@@ -20,8 +20,3 @@ Hi, I'm Junior Android & Web Programmer from Indonesia. And i'm Java / Kotlin / 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurzainpradana&show_icons=true&locale=en&layout=compact" alt="nurzainpradana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurzainpradana&show_icons=true&locale=en" alt="nurzainpradana" /></p>
-
-
-
-## Find me around the web 🌎 <a href="https://github.com/nurzainpradana"><img align="left" width="130" height="130" src="https://raw.githubusercontent.com/nurzainpradana/nurzainpradana/master/gif/git.gif?raw=true"></a>
-- My Contact on <a href="https://www.linkedin.com/in/nur-zain-pradana-7463a4183/">LinkedIn</a> 💼
