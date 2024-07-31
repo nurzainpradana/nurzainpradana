@@ -1,8 +1,9 @@
 # Assalamualaikum Warahmatullahi Wabarakatuh, Hi 👋, I'm Zain
 
-<img src="https://raw.githubusercontent.com/nurzainpradana/nurzainpradana/master/bg_header.png" alt="banner that says Nur Zain Pradana - Junior Android & Web Programmer"><br />
+<!--<img src="https://raw.githubusercontent.com/nurzainpradana/nurzainpradana/master/bg_header.png" alt="banner that says Nur Zain Pradana - Junior Android & Web Programmer"><br />-->
 
-Hi, I'm Junior Android & Web Programmer from Indonesia. And i'm Java / Kotlin / PHP enthusiast, I'm just beginner but i hope i can contribute to open source on github . if you have an idea to create a library maybe i can help, feel free to comment and pull requests <br />
+Hi, I'm Nur Zain Pradana, I'm based in Indonesia. With a strong background in Web, Android & RPA Programming, 
+I serves as a Programmer Staff at Manufacture in Cikarang, Bekasi, Jawa Barat. In this role, I'm responsible for Development system with PHP Framework (CodeIgniter / Laravel), Android Native (Kotlin) & Create Robot with UiPath.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurzainpradana&label=Profile%20views&color=0e75b6&style=flat" alt="nurzainpradana" /> </p>
