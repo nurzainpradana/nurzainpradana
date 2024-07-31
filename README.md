@@ -1,4 +1,4 @@
-# Assalamualaikum Warahmatullahi Wabarakatuh, Hi 👋, I'm Zain
+# Hello World 👋, I'm Zain
 
 <!--<img src="https://raw.githubusercontent.com/nurzainpradana/nurzainpradana/master/bg_header.png" alt="banner that says Nur Zain Pradana - Junior Android & Web Programmer"><br />-->
 
